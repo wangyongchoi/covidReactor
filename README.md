@@ -1,1 +1,1 @@
-### covidReactor
+<p align="center"><img width=12.5% src="https://github.com/wangyongchoi/covidReactor/blob/master/media/covid_reactor_main_1256.png"></p>
